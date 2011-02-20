@@ -16,8 +16,6 @@ set tabstop=2 expandtab
 set autoindent shiftwidth=2
 " let GetLatestVimScripts automatically install scripts
 let g:GetLatestVimScripts_allowautoinstall=1
-" set up delimitMate
-" let delimitMate_autoclose = 1
 " set incremental search
 set incsearch
 " always show status bar
