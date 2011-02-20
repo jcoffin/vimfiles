@@ -33,6 +33,10 @@ set spell spelllang=en_us
 " ignore case when searching
 set ignorecase
 
+" Pathogen (https://github.com/tpope/vim-pathogen)
+call pathogen#helptags()
+call pathogen#runtime_append_all_bundles()
+
 " Execute open rspec buffer
 " Thanks to Ian Smith-Heisters
 function! RunSpec(args)
