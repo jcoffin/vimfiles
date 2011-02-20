@@ -30,6 +30,6 @@ set spell spelllang=en_us
 set ignorecase
 
 " Pathogen (https://github.com/tpope/vim-pathogen)
-call pathogen#helptags()
 call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
 
