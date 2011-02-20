@@ -7,3 +7,6 @@
 [submodule "vim/bundle/vim-rails"]
 	path = vim/bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "vim/bundle/align"]
+	path = vim/bundle/align
+	url = https://github.com/vim-scripts/Align.git
