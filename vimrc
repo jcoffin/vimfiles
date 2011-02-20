@@ -8,7 +8,7 @@ set tw=79
 set nu
 " turn off audio bell
 set visualbell
-" show matching brakets
+" show matching brackets
 set showmatch
 " tab settings
 set tabstop=2 expandtab 
