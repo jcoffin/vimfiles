@@ -1,0 +1,2 @@
+getscript.vba: call delete('/Users/jcoffin/.vim/plugin/getscriptPlugin.vim')|call delete('/Users/jcoffin/.vim/autoload/getscript.vim')|call delete('/Users/jcoffin/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/Users/jcoffin/.vim/doc/pi_getscript.txt')
+markdown-1.1.0.vba: call delete('/Users/jcoffin/.vim/ftdetect/markdown.vim')|call delete('/Users/jcoffin/.vim/snippets/markdown.snippets')|call delete('/Users/jcoffin/.vim/syntax/markdown.vim')
