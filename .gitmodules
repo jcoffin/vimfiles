@@ -10,3 +10,6 @@
 [submodule "vim/bundle/align"]
 	path = vim/bundle/align
 	url = https://github.com/vim-scripts/Align.git
+[submodule "vim/bundle/bufexplorer"]
+	path = vim/bundle/bufexplorer
+	url = https://github.com/vim-scripts/bufexplorer.zip.git
