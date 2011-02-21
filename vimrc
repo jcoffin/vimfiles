@@ -38,3 +38,6 @@ call pathogen#helptags()
 " vim-ruby settings
 let g:rubycomplete_rails = 1
 
+" syntastic settings
+let g:syntastic_enable_signs=1
+
