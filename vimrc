@@ -35,3 +35,6 @@ let mapleader = ","
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
+" vim-ruby settings
+let g:rubycomplete_rails = 1
+
