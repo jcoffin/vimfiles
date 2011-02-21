@@ -28,6 +28,8 @@ filetype plugin indent on
 set spell spelllang=en_us 
 " ignore case when searching
 set ignorecase
+" set <leader>
+let mapleader = ","
 
 " Pathogen (https://github.com/tpope/vim-pathogen)
 call pathogen#runtime_append_all_bundles()
