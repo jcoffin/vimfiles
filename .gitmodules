@@ -37,3 +37,9 @@
 [submodule "vim/bundle/ragtag"]
 	path = vim/bundle/ragtag
 	url = https://github.com/tpope/vim-ragtag.git
+[submodule "vim/bundle/snipmate"]
+	path = vim/bundle/snipmate
+	url = https://github.com/akitaonrails/snipmate.vim.git
+[submodule "vim/snippets"]
+	path = vim/snippets
+	url = https://github.com/spf13/snipmate-snippets.git
