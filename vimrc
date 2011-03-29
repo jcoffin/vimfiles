@@ -41,3 +41,7 @@ let g:rubycomplete_rails = 1
 " syntastic settings
 let g:syntastic_enable_signs=1
 
+" store temp files in central spot
+set backupdir=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
+set directory=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
+
