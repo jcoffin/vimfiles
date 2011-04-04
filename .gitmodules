@@ -55,3 +55,6 @@
 [submodule "vim/bundle/javascript-indent"]
 	path = vim/bundle/javascript-indent
 	url = https://github.com/vim-scripts/JavaScript-Indent.git
+[submodule "vim/bundle/html5-syntax"]
+	path = vim/bundle/html5-syntax
+	url = https://github.com/othree/html5-syntax.vim.git
