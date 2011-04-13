@@ -45,3 +45,6 @@ let g:syntastic_enable_signs=1
 set backupdir=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
 set directory=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
 
+" bind control-l to hashrocket
+imap <C-l> <Space>=><Space>
+ 
