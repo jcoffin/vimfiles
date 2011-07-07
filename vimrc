@@ -22,8 +22,6 @@ set laststatus=2
 set hidden
 "highlight the line the cursor is on
 set cursorline
-" get programing type goodness
-filetype plugin indent on
 " turn on spell check
 set spell spelllang=en_us 
 " ignore case when searching
@@ -34,6 +32,9 @@ let mapleader = ","
 " Pathogen (https://github.com/tpope/vim-pathogen)
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
+
+" get programing type goodness (Pathogen stuff must come first)
+filetype plugin indent on
 
 " vim-ruby settings
 let g:rubycomplete_rails = 1
