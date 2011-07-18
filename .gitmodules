@@ -49,12 +49,6 @@
 [submodule "vim/bundle/syntastic"]
 	path = vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "vim/bundle/javascript-syntax"]
-	path = vim/bundle/javascript-syntax
-	url = https://github.com/vim-scripts/JavaScript-syntax.git
-[submodule "vim/bundle/javascript-indent"]
-	path = vim/bundle/javascript-indent
-	url = https://github.com/vim-scripts/JavaScript-Indent.git
 [submodule "vim/bundle/html5-syntax"]
 	path = vim/bundle/html5-syntax
 	url = https://github.com/othree/html5-syntax.vim.git
@@ -67,3 +61,6 @@
 [submodule "vim/bundle/vim-coffee-script"]
 	path = vim/bundle/vim-coffee-script
 	url = git://github.com/kchmck/vim-coffee-script.git
+[submodule "vim/bundle/vim-javascript"]
+	path = vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
