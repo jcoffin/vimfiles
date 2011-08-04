@@ -49,7 +49,4 @@ set directory=~/.vim-tmp,~/.tmp,~/tmp,/var/tmp,/tmp
 " bind control-l to hashrocket
 imap <C-l> <Space>=><Space>
 
-" solorized color scheme
-set background=light
-colorscheme solarized
 
