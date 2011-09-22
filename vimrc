@@ -6,6 +6,8 @@ set tw=79
 :set formatoptions=l
 " show line numbers
 set nu
+" use 256 colors in Terminal
+set t_Co=256
 " turn off audio bell
 set visualbell
 " show matching brackets
