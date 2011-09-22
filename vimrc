@@ -20,6 +20,8 @@ set autoindent shiftwidth=2
 set incsearch
 " always show status bar
 set laststatus=2
+" set statusline
+set statusline=%<%f\ %h%m%r%{fugitive#statusline()}%=%-14.(%l,%c%V%)\ %P
 " it is ok to change buffers without making saves
 set hidden
 "highlight the line the cursor is on
